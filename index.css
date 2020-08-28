@@ -1,7 +1,25 @@
 body {
+    background-color: #ecf0f1;
+    color: #34495e
 
+}
+.btn {
+    cursor: pointer;
 }
 
 h1 {
     color: black;
+}
+
+.clicked {
+    color: #7f8c8d;
+}
+
+.form,
+.greeting{
+    display: none;
+}
+
+.showing {
+    display: block;
 }
